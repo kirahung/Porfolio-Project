@@ -1,0 +1,31 @@
+
+h1 {
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+p {
+    color:gainsboro;
+    text-align: left;
+}
+
+img {
+    border:2px solid gainsboro;
+    background-position: 50%;
+    
+    
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+#contact-under-name {
+    color:black;
+}
